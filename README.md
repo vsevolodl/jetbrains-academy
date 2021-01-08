@@ -1,6 +1,8 @@
-#JetBrains Cofee Machine
+# JetBrains Cofee Machine
 
-Description
+JetBrains Academy coding exercise focusued on classes and methods. 
+
+# Description
 
 Let's redesign our program and write a class that represents the coffee machine. The class should have a method that takes a string as input. Every time the user inputs a string to the console, the program invokes this method with one argument: the line that user input to the console. This system simulates pretty accurately how real-world electronic devices work. External components (like buttons on the coffee machine or tapping on the screen) generate events that pass into the single interface of the program.
 
@@ -12,7 +14,7 @@ The right solution to this problem is to store the current state of the machine.
 Objective
 
 Your final task is to refactor the program. Make it so that you can communicate with the coffee machine through a single method. Good luck!
-Example
+## Example
 
 Your coffee machine should have the same initial resources as in the example (400 ml of water, 540 ml of milk, 120 g of coffee beans, 9 disposable cups, $550 in cash).
 The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
